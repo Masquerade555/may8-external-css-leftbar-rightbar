@@ -1,0 +1,91 @@
+*{
+	margin:0px;
+	padding:0px;
+	}
+	
+.header{
+	background-color:rgba(51,153,255,1);
+	height:80px;
+	}
+
+.lb {
+	background-color:rgba(153,51,0,1);
+	width:20%;
+	float:left;
+	height:800px;
+	}
+.section{
+	background-color:rgba(204,153,0,1);
+	height:800px;
+	width:60%;
+	float:left;
+	}
+.rb {
+	background-color:rgba(153,51,0,1);
+	width:20%;
+	float:left;
+	height:800px;
+	}
+.footer{
+	background-color:rgba(51,153,255,1);
+	height:80px;
+	clear:both;
+	}
+.sbox1{
+	height:180px;
+	width:180px;
+	float:left;
+	margin-left:50px;
+	}
+.sbox2{
+	height:180px;
+	width:180px;
+	float:left;
+	}
+.sbox3{
+	height:180px;
+	width:180px;
+	float:left;
+	}
+.lbbox1{
+	height:100px;
+	width:100px;
+	clear:both;
+	}
+.lbbox2{
+	height:100px;
+	width:100px;
+	}
+.lbbox3{
+	height:100px;
+	width:100px;
+	}
+.rbbox1{
+	height:100px;
+	width:100px;
+	}
+.rbbox2{
+	height:100px;
+	width:100px;
+	}
+.rbbox3{
+	height:100px;
+	width:100px;
+	}
+.boxs{
+	margin-right:10px;
+	margin-bottom:180px;
+	margin-top:180px;
+	padding:20px;
+	background-color:rgba(153,0,0,1);
+	}
+.boxlb{
+	background-color:rgba(153,0,0,1);
+	margin:30px;
+	padding:20px;
+	}
+.boxrb{
+	background-color:rgba(153,0,0,1);
+	margin:30px;
+	padding:20px;
+	}
